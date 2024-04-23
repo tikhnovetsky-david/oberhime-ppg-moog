@@ -1,0 +1,7 @@
+txt
+word
+excel
+pdf
+jpg
+py
+два архива один с паролем
