@@ -3,6 +3,11 @@ from string import digits, punctuation, ascii_letters
 import win32com.client as client
 from datetime import datetime
 import time
+import tinkoffpy as tf
+
+
+tf.auth_by_credentials(username='ivan.ivanov',
+                       password='pupazalupa123!')
 
 
 def brute_excel_doc():
